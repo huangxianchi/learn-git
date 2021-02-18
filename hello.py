@@ -3,5 +3,6 @@
 
 def AddorSub(a, b):
     c = a - b
-    return c
+    d = a + b
+    return c,d
 
